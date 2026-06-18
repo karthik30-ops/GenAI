@@ -118,6 +118,6 @@ The program is designed not to crash on unexpected input. It validates that:
 
 - Python 3 (standard library only — no external dependencies)
 
-## 📝 License
+## 📝Author
 
-This project was created as part of the Gen AI Architect Program by Social Eagle, for educational purposes.
+Karthik S
